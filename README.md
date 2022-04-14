@@ -20,10 +20,10 @@
 - OSS 실습 7주차
 
 <https://www.kiu.ac.kr>
-
 <https://www.google.com>
-
-[경일대학교](https://www.kiu.ac.kr)
-
+[KIU](https://www.kiu.ac.kr)
 [구글](https://www.google.com)
 
+![Rain](./image/1.jpg)
+
+![Cat](./image/3.jpg)
