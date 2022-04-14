@@ -19,10 +19,10 @@
 - 컴퓨터사이언스학부 클라우드컴퓨팅전공
 - OSS 실습 7주차
 
-<https://www.kiu.ac.kr>
-<https://www.google.com>
-[KIU](https://www.kiu.ac.kr)
-[구글](https://www.google.com)
++ <https://www.kiu.ac.kr>
++ <https://www.google.com>
++ [KIU](https://www.kiu.ac.kr)
++ [구글](https://www.google.com)
 
 ![Rain](./image/1.jpg)
 
