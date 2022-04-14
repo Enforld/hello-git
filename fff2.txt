@@ -1,0 +1,7 @@
+6:00 Wake
+7:00 School bus
+9:00 ComputerScience lesson
+11:00 OSS lesson
+1:00 Go to home
+
+~~~
